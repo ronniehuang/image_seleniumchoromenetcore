@@ -24,13 +24,9 @@ RUN dpkg -i packages-microsoft-prod.deb
 RUN apt-get update
 
 RUN apt-get install -y \
-
     python3-pip \
-
     vim \
-
     dotnet-sdk-2.1 \
-
     git
 
  
