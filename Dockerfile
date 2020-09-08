@@ -1,4 +1,4 @@
-FROM selenium/standalone-chrome:85
+FROM selenium/standalone-chrome:85.0
 
 LABEL authors=SeleniumHQ
 
