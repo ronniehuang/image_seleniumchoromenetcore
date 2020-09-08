@@ -1,4 +1,4 @@
-FROM selenium/standalone-chrome:3.14.0-iron
+FROM selenium/standalone-chrome:85
 
 LABEL authors=SeleniumHQ
 
